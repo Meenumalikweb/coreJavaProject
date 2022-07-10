@@ -17,6 +17,9 @@ interface Work{
 interface IPlay{
     void play();
 }
+interface Study{
+    void study();
+}
 //class Employee implements Work, IPlay{
 //    @Override
 //    public void work() {
